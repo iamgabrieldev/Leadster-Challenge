@@ -14,8 +14,8 @@ export const Container = styled.div`
   .tag {
     color: #007eff;
     font-size: 0.875rem;
-    font-weight: bold;
-    padding: 0.5rem;
+    font-weight: 800;
+    padding: 0.5rem 1rem;
     text-transform: uppercase;
     border-radius: 1rem 1rem 1rem 0px;
     border: 1px solid #007eff;
