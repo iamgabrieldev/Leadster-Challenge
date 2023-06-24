@@ -1,5 +1,6 @@
 import Header from '@/components/Header'
 import Intro from '@/components/Intro'
+import Publicity from '@/components/Publicity'
 import VideoList from '@/components/VideoList'
 import Head from 'next/head'
 
@@ -15,6 +16,7 @@ export default function Home() {
         <Header />
         <Intro />
         <VideoList />
+        <Publicity />
       </main>
     </>
   )
