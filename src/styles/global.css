@@ -8,4 +8,12 @@
 
 body {
   font-family: 'Plus Jakarta Sans', sans-serif;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
 }
