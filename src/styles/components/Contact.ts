@@ -1,7 +1,7 @@
 import { styled } from 'styled-components'
 
 export const Contact = styled.section`
-  padding: 4rem 0;
+  padding: 4rem 0 0 0;
 `
 
 export const ContactHeader = styled.div`
@@ -71,4 +71,12 @@ export const ContactSocialMedia = styled.div`
       opacity: 0.6;
     }
   }
+`
+
+export const Line = styled.div`
+  display: block;
+  background-color: #e5e5e5;
+  margin: 2rem 0 0 0;
+  width: 104%;
+  height: 2px;
 `

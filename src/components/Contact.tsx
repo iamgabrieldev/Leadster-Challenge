@@ -66,6 +66,7 @@ export default function Contact() {
           </div>
         </styled.ContactSocialMedia>
       </styled.ContactContent>
+      <styled.Line />
     </styled.Contact>
   )
 }
