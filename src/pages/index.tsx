@@ -1,3 +1,4 @@
+import Contact from '@/components/Contact'
 import Header from '@/components/Header'
 import Intro from '@/components/Intro'
 import Publicity from '@/components/Publicity'
@@ -17,6 +18,7 @@ export default function Home() {
         <Intro />
         <VideoList />
         <Publicity />
+        <Contact />
       </main>
     </>
   )
