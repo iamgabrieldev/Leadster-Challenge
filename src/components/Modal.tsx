@@ -12,10 +12,10 @@ export default function Modal() {
           <X size={24} />
         </styled.CloseButton>
         <styled.Title>
-          <h3>
+          <h2>
             <strong>Webinar:</strong> Como aumentar sua Geração de Leads feat.
             Traktor
-          </h3>
+          </h2>
         </styled.Title>
         <iframe
           width="600"

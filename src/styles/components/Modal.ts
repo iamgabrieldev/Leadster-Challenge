@@ -16,7 +16,7 @@ export const CloseButton = styled(Dialog.Close)`
 `
 
 export const Title = styled(Dialog.Title)`
-  h3 {
+  h2 {
     width: 360px;
     font-size: 1.5rem;
     text-align: center;
