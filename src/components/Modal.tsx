@@ -24,7 +24,7 @@ export default function Modal() {
           title="Next.js está virando um framework BACK-END?!"
         />
         <styled.Description>
-          <h4>Descrição</h4>
+          <h3>Descrição</h3>
           <styled.Line />
           <p>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore
@@ -34,7 +34,7 @@ export default function Modal() {
           </p>
         </styled.Description>
         <styled.Download>
-          <h4>Downloads</h4>
+          <h3>Downloads</h3>
           <styled.Line />
           <div>
             <div className="xls">
