@@ -13,6 +13,7 @@ export default function Tag({ name, variant = '', handleVariant }: TagProps) {
       name={name}
       onClick={() => handleVariant(name)}
       className={variant}
+      data-testid={variant}
     >
       <p>{name}</p>
     </styled.Tag>
