@@ -1,0 +1,678 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <main>
+    <header
+      class="sc-dbgcnz kYYCTx"
+      data-testid="header"
+    >
+      <img
+        alt="logotipo da leadster"
+        data-nimg="1"
+        decoding="async"
+        height="40"
+        loading="lazy"
+        src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+        srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+        style="color: transparent;"
+        width="40"
+      />
+    </header>
+    <section
+      class="sc-hUozzH kebtiB"
+    >
+      <div
+        class="sc-fmMAES ckohuC"
+      >
+        <p
+          class="tag"
+          data-testid="tag"
+        >
+          Webinars Exclusivos
+        </p>
+        <h2>
+          Menos Conversinha,
+        </h2>
+        <div
+          class="title"
+        >
+          <h1>
+            Mais Conversão
+          </h1>
+          <img
+            alt="icone para estilizar o titulo principal"
+            data-nimg="1"
+            decoding="async"
+            height="40"
+            loading="lazy"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+            style="color: transparent;"
+            width="40"
+          />
+        </div>
+        <p
+          data-testid="description"
+        >
+          Conheça as estratégias que 
+          <strong>
+            mudaram o jogo
+          </strong>
+           e como aplicá-las no seu negócio
+        </p>
+      </div>
+    </section>
+    <div
+      class="sc-dQxJeg dYRUHw"
+    >
+      <div
+        class="sc-epEBMC oeiYn"
+      >
+        <button
+          class="sc-kYthIQ hFnYow"
+          data-testid=""
+          name="Agências"
+        >
+          <p>
+            Agências
+          </p>
+        </button>
+        <button
+          class="sc-kYthIQ hFnYow"
+          data-testid=""
+          name="Chatbot"
+        >
+          <p>
+            Chatbot
+          </p>
+        </button>
+        <button
+          class="sc-kYthIQ hFnYow"
+          data-testid=""
+          name="Marketing Digital"
+        >
+          <p>
+            Marketing Digital
+          </p>
+        </button>
+        <button
+          class="sc-kYthIQ hFnYow"
+          data-testid=""
+          name="Geração de Leads"
+        >
+          <p>
+            Geração de Leads
+          </p>
+        </button>
+        <button
+          class="sc-kYthIQ hFnYow"
+          data-testid=""
+          name="Mídia Paga"
+        >
+          <p>
+            Mídia Paga
+          </p>
+        </button>
+      </div>
+      <div
+        class="sc-kTnOlP gVuhuk"
+      >
+        <strong>
+          Ordenar por
+        </strong>
+        <select>
+          <option>
+            Data de Publicação
+          </option>
+        </select>
+      </div>
+    </div>
+    <div
+      class="sc-kugVDt caUZiI"
+    />
+    <section
+      class="sc-eJXXXj eVmzjE"
+    >
+      <div
+        aria-controls="radix-:r0:"
+        aria-expanded="false"
+        aria-haspopup="dialog"
+        class="sc-gmGKJh fkBbYB"
+        data-state="closed"
+        type="button"
+      >
+        <img
+          alt="Capa do vídeo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <div
+          class="sc-ieqSq fNpKyd"
+        >
+          <p>
+            Como aumentar sua Geração de Leads feat. Traktor
+          </p>
+        </div>
+      </div>
+      <div
+        aria-controls="radix-:r3:"
+        aria-expanded="false"
+        aria-haspopup="dialog"
+        class="sc-gmGKJh fkBbYB"
+        data-state="closed"
+        type="button"
+      >
+        <img
+          alt="Capa do vídeo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <div
+          class="sc-ieqSq fNpKyd"
+        >
+          <p>
+            Como aumentar sua Geração de Leads feat. Traktor
+          </p>
+        </div>
+      </div>
+      <div
+        aria-controls="radix-:r6:"
+        aria-expanded="false"
+        aria-haspopup="dialog"
+        class="sc-gmGKJh fkBbYB"
+        data-state="closed"
+        type="button"
+      >
+        <img
+          alt="Capa do vídeo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <div
+          class="sc-ieqSq fNpKyd"
+        >
+          <p>
+            Como aumentar sua Geração de Leads feat. Traktor
+          </p>
+        </div>
+      </div>
+      <div
+        aria-controls="radix-:r9:"
+        aria-expanded="false"
+        aria-haspopup="dialog"
+        class="sc-gmGKJh fkBbYB"
+        data-state="closed"
+        type="button"
+      >
+        <img
+          alt="Capa do vídeo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <div
+          class="sc-ieqSq fNpKyd"
+        >
+          <p>
+            Como aumentar sua Geração de Leads feat. Traktor
+          </p>
+        </div>
+      </div>
+      <div
+        aria-controls="radix-:rc:"
+        aria-expanded="false"
+        aria-haspopup="dialog"
+        class="sc-gmGKJh fkBbYB"
+        data-state="closed"
+        type="button"
+      >
+        <img
+          alt="Capa do vídeo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <div
+          class="sc-ieqSq fNpKyd"
+        >
+          <p>
+            Como aumentar sua Geração de Leads feat. Traktor
+          </p>
+        </div>
+      </div>
+      <div
+        aria-controls="radix-:rf:"
+        aria-expanded="false"
+        aria-haspopup="dialog"
+        class="sc-gmGKJh fkBbYB"
+        data-state="closed"
+        type="button"
+      >
+        <img
+          alt="Capa do vídeo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <div
+          class="sc-ieqSq fNpKyd"
+        >
+          <p>
+            Como aumentar sua Geração de Leads feat. Traktor
+          </p>
+        </div>
+      </div>
+      <div
+        aria-controls="radix-:ri:"
+        aria-expanded="false"
+        aria-haspopup="dialog"
+        class="sc-gmGKJh fkBbYB"
+        data-state="closed"
+        type="button"
+      >
+        <img
+          alt="Capa do vídeo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <div
+          class="sc-ieqSq fNpKyd"
+        >
+          <p>
+            Como aumentar sua Geração de Leads feat. Traktor
+          </p>
+        </div>
+      </div>
+      <div
+        aria-controls="radix-:rl:"
+        aria-expanded="false"
+        aria-haspopup="dialog"
+        class="sc-gmGKJh fkBbYB"
+        data-state="closed"
+        type="button"
+      >
+        <img
+          alt="Capa do vídeo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <div
+          class="sc-ieqSq fNpKyd"
+        >
+          <p>
+            Como aumentar sua Geração de Leads feat. Traktor
+          </p>
+        </div>
+      </div>
+      <div
+        aria-controls="radix-:ro:"
+        aria-expanded="false"
+        aria-haspopup="dialog"
+        class="sc-gmGKJh fkBbYB"
+        data-state="closed"
+        type="button"
+      >
+        <img
+          alt="Capa do vídeo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <div
+          class="sc-ieqSq fNpKyd"
+        >
+          <p>
+            Como aumentar sua Geração de Leads feat. Traktor
+          </p>
+        </div>
+      </div>
+    </section>
+    <section
+      class="sc-dSyItl fgKcZb"
+    >
+      <div
+        class="sc-bkWJyw cuQPEy"
+      >
+        <img
+          alt="Ilustração sobre a eficiência da ledster na captação de leads em comparação com outras ferramentas"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <div
+          class="sc-dMOoFv kEaHOe"
+        >
+          <h2>
+            Pronto para triplicar sua 
+            <strong>
+              Geração de Leads?
+            </strong>
+          </h2>
+          <p>
+            Criação e ativação em 
+            <strong>
+              4 minutos
+            </strong>
+          </p>
+          <div
+            class="sc-bfmpKG keAnDA"
+          />
+          <div
+            class="sc-laugXV ekXxzp"
+          >
+            <button>
+              Ver Demonstração
+            </button>
+            <img
+              alt=""
+              data-nimg="1"
+              decoding="async"
+              height="40"
+              loading="lazy"
+              src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+              srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+              style="color: transparent;"
+              width="40"
+            />
+          </div>
+          <div
+            class="sc-isSidg drAeSE"
+          >
+            <div>
+              <img
+                alt=""
+                data-nimg="1"
+                decoding="async"
+                height="40"
+                loading="lazy"
+                src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+                style="color: transparent;"
+                width="40"
+              />
+              <p>
+                Não é necessário Cartão de Crédio
+              </p>
+            </div>
+            |
+            <div>
+              <img
+                alt=""
+                data-nimg="1"
+                decoding="async"
+                height="40"
+                loading="lazy"
+                src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+                style="color: transparent;"
+                width="40"
+              />
+              <p>
+                4.9/5 média de satisfação
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="sc-kvAqsT hcoSdr"
+    >
+      <div
+        class="sc-grJzXs fvWWCh"
+      >
+        <img
+          alt="Logotipo da leadster"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <p>
+          Transformando visitantes em clientes.
+        </p>
+      </div>
+      <div
+        class="sc-cdtKKh lcRdCf"
+      >
+        <div
+          class="sc-gZGWnS cmKDJb"
+        >
+          <strong
+            role="title"
+          >
+            Links Principais
+          </strong>
+          <div>
+            <p>
+              Home
+            </p>
+            <p>
+              Ferramenta
+            </p>
+            <p>
+              Preços
+            </p>
+            <p>
+              Contato
+            </p>
+          </div>
+        </div>
+        <div
+          class="sc-gZGWnS cmKDJb"
+        >
+          <strong
+            role="title"
+          >
+            Cases
+          </strong>
+          <div>
+            <p>
+              Geração de Leads B2B
+            </p>
+            <p>
+              Geração de Leads em Software
+            </p>
+            <p>
+              Geração de Leads em Imobiliária
+            </p>
+            <p>
+              Cases de Sucesso
+            </p>
+          </div>
+        </div>
+        <div
+          class="sc-gZGWnS cmKDJb"
+        >
+          <strong
+            role="title"
+          >
+            Materiais
+          </strong>
+          <div>
+            <p>
+              Blog
+            </p>
+            <p>
+              Parceria com Agências
+            </p>
+            <p>
+              Guia Definitivo do marketing
+            </p>
+            <p>
+              Materiais Gratuitos
+            </p>
+          </div>
+        </div>
+        <div
+          class="sc-cLrhaH cJtDQs"
+        >
+          <strong
+            role="title"
+          >
+            Siga a Leadster
+          </strong>
+          <div
+            class="socialmedia-group"
+          >
+            <div>
+              <svg
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 256 256"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M216,24H40A16,16,0,0,0,24,40V216a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V40A16,16,0,0,0,216,24ZM96,176a8,8,0,0,1-16,0V112a8,8,0,0,1,16,0ZM88,96a12,12,0,1,1,12-12A12,12,0,0,1,88,96Zm96,80a8,8,0,0,1-16,0V140a20,20,0,0,0-40,0v36a8,8,0,0,1-16,0V112a8,8,0,0,1,15.79-1.78A36,36,0,0,1,184,140Z"
+                />
+              </svg>
+            </div>
+            <div>
+              <svg
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 256 256"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M232,128a104.16,104.16,0,0,1-91.55,103.26,4,4,0,0,1-4.45-4V152h24a8,8,0,0,0,8-8.53,8.17,8.17,0,0,0-8.25-7.47H136V112a16,16,0,0,1,16-16h16a8,8,0,0,0,8-8.53A8.17,8.17,0,0,0,167.73,80H152a32,32,0,0,0-32,32v24H96a8,8,0,0,0-8,8.53A8.17,8.17,0,0,0,96.27,152H120v75.28a4,4,0,0,1-4.44,4A104.15,104.15,0,0,1,24.07,124.09c2-54,45.74-97.9,99.78-100A104.12,104.12,0,0,1,232,128Z"
+                />
+              </svg>
+            </div>
+            <div>
+              <svg
+                fill="currentColor"
+                height="1em"
+                viewBox="0 0 256 256"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M176,24H80A56.06,56.06,0,0,0,24,80v96a56.06,56.06,0,0,0,56,56h96a56.06,56.06,0,0,0,56-56V80A56.06,56.06,0,0,0,176,24ZM128,176a48,48,0,1,1,48-48A48.05,48.05,0,0,1,128,176Zm60-96a12,12,0,1,1,12-12A12,12,0,0,1,188,80Zm-28,48a32,32,0,1,1-32-32A32,32,0,0,1,160,128Z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="contact-info"
+          >
+            <span>
+              E-mail:
+            </span>
+            <p>
+              contato@leadster.com.br
+            </p>
+          </div>
+          <div
+            class="contact-info"
+          >
+            <span>
+              Telefone:
+            </span>
+            <p>
+              (42) 98828-9851
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jWWaec bfVNgM"
+      />
+    </section>
+    <footer
+      class="sc-fIGkQR dbTLxj"
+    >
+      <div
+        class="sc-hpvRAK hXgUEM"
+        data-testid="copyright"
+      >
+        <p>
+          Copyright © 2015 - 2022 Todos os direitos reservados
+        </p>
+        <span>
+          |
+        </span>
+         
+        <strong>
+          Leadster
+        </strong>
+      </div>
+      <div
+        data-testid="address"
+      >
+        <p>
+          Rua José Loureiro, 464 - Centro - Curitiba PR - CEP: 80010-000
+        </p>
+        <span>
+          |
+        </span>
+        <p>
+          Termos de uso
+        </p>
+      </div>
+    </footer>
+  </main>
+</div>
+`;
