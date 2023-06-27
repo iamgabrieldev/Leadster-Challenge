@@ -17,7 +17,7 @@ export default function Contact() {
       </styled.ContactHeader>
       <styled.ContactContent>
         <styled.ContactColumn>
-          <strong>Links Principais</strong>
+          <strong role="title">Links Principais</strong>
           <div>
             <p>Home</p>
             <p>Ferramenta</p>
@@ -26,7 +26,7 @@ export default function Contact() {
           </div>
         </styled.ContactColumn>
         <styled.ContactColumn>
-          <strong>Cases</strong>
+          <strong role="title">Cases</strong>
           <div>
             <p>Geração de Leads B2B</p>
             <p>Geração de Leads em Software</p>
@@ -35,7 +35,7 @@ export default function Contact() {
           </div>
         </styled.ContactColumn>
         <styled.ContactColumn>
-          <strong>Materiais</strong>
+          <strong role="title">Materiais</strong>
           <div>
             <p>Blog</p>
             <p>Parceria com Agências</p>
@@ -44,7 +44,7 @@ export default function Contact() {
           </div>
         </styled.ContactColumn>
         <styled.ContactSocialMedia>
-          <strong>Siga a Leadster</strong>
+          <strong role="title">Siga a Leadster</strong>
           <div className="socialmedia-group">
             <div>
               <LinkedinLogo weight="fill" />
