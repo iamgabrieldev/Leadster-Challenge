@@ -20,10 +20,10 @@ exports[`renders homepage unchanged 1`] = `
       />
     </header>
     <section
-      class="sc-hUozzH kebtiB"
+      class="sc-hUozzH bIGcZW"
     >
       <div
-        class="sc-fmMAES ckohuC"
+        class="sc-fmMAES gBhoxZ"
       >
         <p
           class="tag"
@@ -64,10 +64,10 @@ exports[`renders homepage unchanged 1`] = `
       </div>
     </section>
     <div
-      class="sc-dQxJeg dYRUHw"
+      class="sc-dQxJeg eykUVj"
     >
       <div
-        class="sc-epEBMC oeiYn"
+        class="sc-epEBMC hZQcvt"
       >
         <button
           class="sc-kYthIQ hFnYow"
@@ -129,10 +129,10 @@ exports[`renders homepage unchanged 1`] = `
       </div>
     </div>
     <div
-      class="sc-kugVDt caUZiI"
+      class="sc-kugVDt jxpvJS"
     />
     <section
-      class="sc-eJXXXj eVmzjE"
+      class="sc-eJXXXj hoXSoR"
     >
       <div
         aria-controls="radix-:r0:"
@@ -379,13 +379,14 @@ exports[`renders homepage unchanged 1`] = `
       </div>
     </section>
     <section
-      class="sc-dSyItl fgKcZb"
+      class="sc-dSyItl hkdMqM"
     >
       <div
-        class="sc-bkWJyw cuQPEy"
+        class="sc-bkWJyw YtYle"
       >
         <img
           alt="Ilustração sobre a eficiência da ledster na captação de leads em comparação com outras ferramentas"
+          class="publicity-image"
           data-nimg="1"
           decoding="async"
           height="40"
@@ -396,7 +397,7 @@ exports[`renders homepage unchanged 1`] = `
           width="40"
         />
         <div
-          class="sc-dMOoFv kEaHOe"
+          class="sc-dMOoFv dfUwlo"
         >
           <h2>
             Pronto para triplicar sua 
@@ -414,7 +415,7 @@ exports[`renders homepage unchanged 1`] = `
             class="sc-bfmpKG keAnDA"
           />
           <div
-            class="sc-laugXV ekXxzp"
+            class="sc-laugXV fnpJyF"
           >
             <button>
               Ver Demonstração
@@ -432,7 +433,7 @@ exports[`renders homepage unchanged 1`] = `
             />
           </div>
           <div
-            class="sc-isSidg drAeSE"
+            class="sc-isSidg iVGzTL"
           >
             <div>
               <img
@@ -493,10 +494,10 @@ exports[`renders homepage unchanged 1`] = `
         </p>
       </div>
       <div
-        class="sc-cdtKKh lcRdCf"
+        class="sc-cdtKKh gLSxxV"
       >
         <div
-          class="sc-gZGWnS cmKDJb"
+          class="sc-gZGWnS cCeiqh"
         >
           <strong
             role="title"
@@ -519,7 +520,7 @@ exports[`renders homepage unchanged 1`] = `
           </div>
         </div>
         <div
-          class="sc-gZGWnS cmKDJb"
+          class="sc-gZGWnS cCeiqh"
         >
           <strong
             role="title"
@@ -542,7 +543,7 @@ exports[`renders homepage unchanged 1`] = `
           </div>
         </div>
         <div
-          class="sc-gZGWnS cmKDJb"
+          class="sc-gZGWnS cCeiqh"
         >
           <strong
             role="title"
@@ -565,7 +566,7 @@ exports[`renders homepage unchanged 1`] = `
           </div>
         </div>
         <div
-          class="sc-cLrhaH cJtDQs"
+          class="sc-cLrhaH gVAxAi"
         >
           <strong
             role="title"
@@ -642,7 +643,7 @@ exports[`renders homepage unchanged 1`] = `
       />
     </section>
     <footer
-      class="sc-fIGkQR dbTLxj"
+      class="sc-fIGkQR kxRmju"
     >
       <div
         class="sc-hpvRAK hXgUEM"
