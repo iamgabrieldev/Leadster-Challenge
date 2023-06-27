@@ -5,7 +5,7 @@ import { HeaderStyled } from '@/styles/components/Header'
 
 export default function Header() {
   return (
-    <HeaderStyled>
+    <HeaderStyled data-testid="header">
       <Image src={LogoImg} alt="logotipo da leadster" />
     </HeaderStyled>
   )
