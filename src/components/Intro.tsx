@@ -7,7 +7,9 @@ export default function Intro() {
   return (
     <styled.Intro>
       <styled.Container>
-        <p className="tag">Webinars Exclusivos</p>
+        <p data-testid="tag" className="tag">
+          Webinars Exclusivos
+        </p>
         <h2>Menos Conversinha,</h2>
         <div className="title">
           <h1>Mais Conversão</h1>
@@ -16,7 +18,7 @@ export default function Intro() {
             alt="icone para estilizar o titulo principal"
           />
         </div>
-        <p>
+        <p data-testid="description">
           Conheça as estratégias que <strong>mudaram o jogo</strong> e como
           aplicá-las no seu negócio
         </p>
