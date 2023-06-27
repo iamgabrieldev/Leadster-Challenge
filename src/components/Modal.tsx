@@ -17,12 +17,7 @@ export default function Modal({ title, description, url }: Video) {
             <strong>Webinar:</strong> {title}
           </h2>
         </styled.Title>
-        <iframe
-          width="600"
-          height="394"
-          src={url}
-          title="Next.js está virando um framework BACK-END?!"
-        />
+        <styled.Iframe src={url} />
         <styled.Description>
           <h3>Descrição</h3>
           <styled.Line />
@@ -31,7 +26,7 @@ export default function Modal({ title, description, url }: Video) {
         <styled.Download>
           <h3>Downloads</h3>
           <styled.Line />
-          <div>
+          <div className="tags-downloads">
             <div className="xls">
               <CloudArrowDown weight="regular" size={16} />
               <p>Spreadsheet.xls</p>

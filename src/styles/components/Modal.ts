@@ -1,6 +1,16 @@
 import * as Dialog from '@radix-ui/react-dialog'
 import { styled } from 'styled-components'
 
+export const Iframe = styled.iframe`
+  width: 600px;
+  height: 394px;
+
+  @media (max-width: 720px) {
+    width: 320px;
+    height: 200px;
+  }
+`
+
 export const Overlay = styled(Dialog.Overlay)`
   position: fixed;
   width: 100vw;
@@ -22,6 +32,11 @@ export const Title = styled(Dialog.Title)`
     text-align: center;
     margin: 0.25rem auto 2rem;
 
+    @media (max-width: 720px) {
+      width: 280px;
+      font-size: 1.125rem;
+    }
+
     strong {
       color: #007eff;
     }
@@ -40,6 +55,10 @@ export const Content = styled(Dialog.Content)`
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+
+  @media (max-width: 720px) {
+    min-width: 300px;
+  }
 `
 
 export const Description = styled.div`
@@ -47,22 +66,34 @@ export const Description = styled.div`
   p {
     width: 34rem;
     line-height: 1.4;
+
+    @media (max-width: 720px) {
+      width: 280px;
+      font-size: 0.875rem;
+    }
   }
 `
 
 export const Download = styled.div`
   padding: 0rem 1rem;
 
-  div {
+  .tags-downloads {
     display: flex;
     align-items: center;
     gap: 0.25rem;
+
+    @media (max-width: 720px) {
+      flex-direction: column;
+      gap: 1rem;
+    }
 
     p {
       font-weight: bold;
     }
 
     .xls {
+      display: flex;
+      align-items: center;
       background-color: #9fefdf;
       border-radius: 0.25rem;
 
@@ -80,6 +111,8 @@ export const Download = styled.div`
     }
 
     .doc {
+      display: flex;
+      align-items: center;
       background-color: #a1d9ff;
       border-radius: 0.25rem;
 
@@ -97,6 +130,8 @@ export const Download = styled.div`
     }
 
     .ppt {
+      display: flex;
+      align-items: center;
       background-color: #fff1a0;
       border-radius: 0.25rem;
 
@@ -119,6 +154,6 @@ export const Line = styled.div`
   display: block;
   background-color: #c5c5c5;
   margin: 0.5rem 0 1rem;
-  width: 100%;
+  /* width: 100%; */
   height: 1px;
 `
