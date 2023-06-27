@@ -2,8 +2,9 @@ import { CloudArrowDown, Download, X } from '@phosphor-icons/react'
 import * as Dialog from '@radix-ui/react-dialog'
 
 import * as styled from '@/styles/components/Modal'
+import { Video } from '@/interfaces/Video'
 
-export default function Modal() {
+export default function Modal({ title, description, url }: Video) {
   return (
     <Dialog.Portal>
       <styled.Overlay />
@@ -13,25 +14,19 @@ export default function Modal() {
         </styled.CloseButton>
         <styled.Title>
           <h2>
-            <strong>Webinar:</strong> Como aumentar sua Geração de Leads feat.
-            Traktor
+            <strong>Webinar:</strong> {title}
           </h2>
         </styled.Title>
         <iframe
           width="600"
           height="394"
-          src="https://www.youtube.com/embed/eVwTlOuzT0Q"
+          src={url}
           title="Next.js está virando um framework BACK-END?!"
         />
         <styled.Description>
           <h3>Descrição</h3>
           <styled.Line />
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore
-            iusto distinctio porro molestias ducimus reprehenderit unde modi
-            dolor non animi accusamus alias quisquam cumque, rem tempora magni
-            esse quos! Autem?
-          </p>
+          <p>{description}</p>
         </styled.Description>
         <styled.Download>
           <h3>Downloads</h3>
