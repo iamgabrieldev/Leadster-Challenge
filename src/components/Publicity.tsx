@@ -11,6 +11,7 @@ export default function Publicity() {
     <styled.Publicity>
       <styled.PublicityContainer>
         <Image
+          className="publicity-image"
           src={ilustrationImg}
           alt="Ilustração sobre a eficiência da ledster na captação de leads em comparação com outras ferramentas"
         />

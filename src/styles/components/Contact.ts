@@ -22,8 +22,15 @@ export const ContactHeader = styled.div`
 `
 export const ContactContent = styled.div`
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 6rem;
+
+  @media (max-width: 720px) {
+    padding: 0 2rem;
+    gap: 1rem;
+    justify-content: left;
+  }
 `
 export const ContactColumn = styled.div`
   strong {
@@ -32,6 +39,10 @@ export const ContactColumn = styled.div`
 
   div {
     margin-top: 4rem;
+
+    @media (max-width: 720px) {
+      margin-top: 2rem;
+    }
 
     p {
       margin-bottom: 2rem;
@@ -49,6 +60,10 @@ export const ContactSocialMedia = styled.div`
     display: flex;
     gap: 1rem;
     margin: 3rem 0 0 0;
+
+    @media (max-width: 720px) {
+      margin-top: 2rem;
+    }
 
     div {
       padding: 0.5rem 0.6rem;

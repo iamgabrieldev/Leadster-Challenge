@@ -8,6 +8,12 @@ export const VideoListContainer = styled.section`
   background-color: #f9f9f9;
   justify-content: space-between;
   gap: 1rem;
+
+  @media (max-width: 720px) {
+    padding: 2rem 0;
+    width: 100%;
+    justify-content: center;
+  }
 `
 
 export const Line = styled.div`

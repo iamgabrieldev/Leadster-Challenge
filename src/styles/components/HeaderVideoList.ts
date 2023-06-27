@@ -6,6 +6,12 @@ export const Container = styled.div`
   align-items: center;
   padding: 2rem 0;
   gap: 12rem;
+
+  @media (max-width: 720px) {
+    padding: 2rem 1rem;
+    gap: 2rem;
+    flex-direction: column;
+  }
 `
 
 export const Line = styled.div`
@@ -14,11 +20,20 @@ export const Line = styled.div`
   width: 60%;
   margin: 0rem auto;
   height: 2px;
+
+  @media (max-width: 720px) {
+    display: none;
+  }
 `
 
 export const Tags = styled.div`
   display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
+
+  @media (max-width: 720px) {
+    /* flex-direction: column; */
+  }
 `
 
 export const Filter = styled.div`
