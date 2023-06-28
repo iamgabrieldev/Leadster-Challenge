@@ -39,7 +39,7 @@ export default function HeaderVideoList() {
             handleVariant={() => handleVariant('Mídia Paga')}
           />
         </styled.Tags>
-        <styled.Filter>
+        <styled.Filter data-testid="select">
           <strong>Ordenar por</strong>
           <select>
             <option>Data de Publicação</option>

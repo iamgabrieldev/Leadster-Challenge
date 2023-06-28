@@ -12,7 +12,7 @@ export default function VideoCard({ title, url, description, id }: Video) {
   return (
     <Dialog.Root>
       <Dialog.Trigger asChild>
-        <styled.VideoCard>
+        <styled.VideoCard data-testid="video-card">
           <Image src={BannerVideo} alt="Capa do vídeo" />
           <styled.VideoCardInfo>
             <p>{title}</p>
